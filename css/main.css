@@ -1,9 +1,16 @@
 html {
-  background-color: color:#f2f1ed;
-  font-family: "Gergia",serif;
+  background-color: #f2f1ed;
+  font-family: "Georgia",serif;
   line-height: 1.5;
 }
-
 img {
   width: 100%;
+}
+h1, h2 {
+  color: #5d8432;
+  text-transform: uppercase;
+}
+h2 {
+  font-style: italic;
+
 }

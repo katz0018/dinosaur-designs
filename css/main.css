@@ -1,11 +1,9 @@
-html{
-  color:#f2f1ed;
-}
-
-html{
+html {
+  background-color: color:#f2f1ed;
   font-family: "Gergia",serif;
+  line-height: 1.5;
 }
 
-html{
-  line-height:1.5;
+img {
+  width: 100%;
 }

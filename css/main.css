@@ -3,18 +3,30 @@ html {
   font-family: "Georgia",serif;
   line-height: 1.5;
 }
+h1{
+  text-align: center;
+  font-size: 5rem;
+  font-family: "Patua One";
+  color: #5d8432;
+
+}
 img {
   width: 100%;
 }
-h1, h2 {
+ nav,h2 {
   color: #5d8432;
   text-transform: uppercase;
+  font-family: "Patua One", cursive;
 }
 figcaption {
   font-style: italic;
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 li {
   font-weight: bold;
+  font-size: 1.125rem;
+  normal-colour: #793284;
+  a:hover {
+    color: #b42885;
 }

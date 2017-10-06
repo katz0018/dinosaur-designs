@@ -26,10 +26,10 @@ figcaption {
 nav {
   font-weight: bold;
   font-size: 1.125rem;
-  normal-colour: #793284;
-  a:hover {
-    color: #b42885;
+  li a:hover {
+    background-color: #b42885;
+    color: #793284;
 }
 #hadrosaur-caption {
-  font-size: 2.0rem;
+  font-size: 1.5rem;
 }

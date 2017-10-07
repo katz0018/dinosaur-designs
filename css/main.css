@@ -21,6 +21,7 @@ h2 {
   color: #5d8432;
   text-transform: uppercase;
   font-family: "Patua One", cursive;
+  margin-top: 2rem;
 }
 
 figcaption {
@@ -30,6 +31,7 @@ figcaption {
 }
 
 nav {
+  font-family: "Patua One";
   font-weight: bold;
   font-size: 1.125rem;
   margin-top: 0;

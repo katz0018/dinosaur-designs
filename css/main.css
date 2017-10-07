@@ -9,6 +9,8 @@ h1 {
   font-size: 5rem;
   font-family: "Patua One";
   color: #5d8432;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 img {
@@ -24,18 +26,28 @@ h2 {
 figcaption {
   font-style: italic;
   text-align: center;
-  font-size: .7rem;
+  font-size: .8rem;
 }
 
 nav {
   font-weight: bold;
   font-size: 1.125rem;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
-  nav a:hover {
-    background-color: #b42885;
-    color: #793284;
-  }
+nav a:hover {
+  background-color: #b42885;
+  color: #793284;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav ul {
+  list-style: none;
+}
 
 #hadrosaur-caption {
   font-size: .9rem;

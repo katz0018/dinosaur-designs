@@ -41,12 +41,16 @@ nav a:hover {
   color: #793284;
 }
 
-nav a {
-  text-decoration: none;
+header nav ol {
+  list-style: none;
 }
 
-nav ul {
-  list-style: none;
+header nav ol li {
+  margin-left: inherit;
+}
+
+header nav ol li a {
+  text-decoration: none;
 }
 
 #hadrosaur-caption {
